@@ -22,7 +22,7 @@ namespace WebFinalRamm.Controllers
         public async Task<IActionResult> Index()
         {
               return _context.Productos != null ? 
-                          View(await _context.Productos.ToListAsync()) :
+                          View(await _context.Productos.Where(x => x.RegistroActivo.Value).ToListAsync()) :
                           Problem("Entity set 'FinalRammContext.Productos'  is null.");
         }
 
@@ -147,7 +147,9 @@ namespace WebFinalRamm.Controllers
             var producto = await _context.Productos.FindAsync(id);
             if (producto != null)
             {
-                _context.Productos.Remove(producto);
+                //_context.Productos.Remove(producto);
+                producto.RegistroActivo = false;
+                _context.Update(producto);
             }
             
             await _context.SaveChangesAsync();
