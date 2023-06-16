@@ -120,14 +120,14 @@ CREATE TABLE VentaDetalle(
 	CONSTRAINT fk_VentaDetalle_Producto FOREIGN KEY (idProducto) REFERENCES Producto(id)
 );
 -- DML
-INSERT INTO Producto(codigo, descripcion, unidadMedida, existencias, precioVenta)
-VALUES ('BR028', 'Buje de bronze de 28mm', 'unidad', 15, 37);
+INSERT INTO Producto(codigo, descripcion, unidadMedida, existencias, marca, precioVenta)
+VALUES ('BR028', 'Buje de bronze de 28mm', 'unidad', 15, 'Brasilero', 37);
 
 SELECT * FROM Producto;
 
 CREATE PROC paProductoListar @parametro VARCHAR(50)
 AS
-  SELECT id, codigo, descripcion, unidadMedida, existencias, precioVenta,
+  SELECT id, codigo, descripcion, unidadMedida, existencias, marca, precioVenta,
 		 usuarioRegistro, fechaRegistro
   FROM Producto
   WHERE registroActivo=1 AND 
