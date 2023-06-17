@@ -9,89 +9,87 @@ using WebFinalRamm.Models;
 
 namespace WebFinalRamm.Controllers
 {
-    public class ProductosController : Controller
+    public class EmpleadosController : Controller
     {
         private readonly FinalRammContext _context;
 
-        public ProductosController(FinalRammContext context)
+        public EmpleadosController(FinalRammContext context)
         {
             _context = context;
         }
 
-        // GET: Productos
+        // GET: Empleados
         public async Task<IActionResult> Index()
         {
-              return _context.Productos != null ? 
-                          View(await _context.Productos.Where(x => x.RegistroActivo.Value).ToListAsync()) :
-                          Problem("Entity set 'FinalRammContext.Productos'  is null.");
+              return _context.Empleados != null ? 
+                          View(await _context.Empleados.ToListAsync()) :
+                          Problem("Entity set 'FinalRammContext.Empleados'  is null.");
         }
 
-        // GET: Productos/Details/5
+        // GET: Empleados/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null || _context.Productos == null)
+            if (id == null || _context.Empleados == null)
             {
                 return NotFound();
             }
 
-            var producto = await _context.Productos
+            var empleado = await _context.Empleados
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (producto == null)
+            if (empleado == null)
             {
                 return NotFound();
             }
 
-            return View(producto);
+            return View(empleado);
         }
 
-        // GET: Productos/Create
+        // GET: Empleados/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Productos/Create
+        // POST: Empleados/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Codigo,Descripcion,UnidadMedida,Existencias,Marca,PrecioVenta,UsuarioRegistro,RegistroActivo,FechaRegistro")] Producto producto)
+        public async Task<IActionResult> Create([Bind("Id,CedulaIdentidad,Nombre,PrimerApellido,SegundoApellido,Direccion,Celular,Cargo,UsuarioRegistro,RegistroActivo,FechaRegistro")] Empleado empleado)
         {
             if (ModelState.IsValid)
             {
-                producto.FechaRegistro = DateTime.Now;
-                producto.RegistroActivo = true;
-                _context.Add(producto);
+                _context.Add(empleado);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(producto);
+            return View(empleado);
         }
 
-        // GET: Productos/Edit/5
+        // GET: Empleados/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null || _context.Productos == null)
+            if (id == null || _context.Empleados == null)
             {
                 return NotFound();
             }
 
-            var producto = await _context.Productos.FindAsync(id);
-            if (producto == null)
+            var empleado = await _context.Empleados.FindAsync(id);
+            if (empleado == null)
             {
                 return NotFound();
             }
-            return View(producto);
+            return View(empleado);
         }
 
-        // POST: Productos/Edit/5
+        // POST: Empleados/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Codigo,Descripcion,UnidadMedida,Existencias,Marca,PrecioVenta,UsuarioRegistro,RegistroActivo,FechaRegistro")] Producto producto)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,CedulaIdentidad,Nombre,PrimerApellido,SegundoApellido,Direccion,Celular,Cargo,UsuarioRegistro,RegistroActivo,FechaRegistro")] Empleado empleado)
         {
-            if (id != producto.Id)
+            if (id != empleado.Id)
             {
                 return NotFound();
             }
@@ -100,14 +98,12 @@ namespace WebFinalRamm.Controllers
             {
                 try
                 {
-                    producto.RegistroActivo = true;
-                    producto.FechaRegistro = DateTime.Now;
-                    _context.Update(producto);
+                    _context.Update(empleado);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ProductoExists(producto.Id))
+                    if (!EmpleadoExists(empleado.Id))
                     {
                         return NotFound();
                     }
@@ -118,51 +114,49 @@ namespace WebFinalRamm.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(producto);
+            return View(empleado);
         }
 
-        // GET: Productos/Delete/5
+        // GET: Empleados/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null || _context.Productos == null)
+            if (id == null || _context.Empleados == null)
             {
                 return NotFound();
             }
 
-            var producto = await _context.Productos
+            var empleado = await _context.Empleados
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (producto == null)
+            if (empleado == null)
             {
                 return NotFound();
             }
 
-            return View(producto);
+            return View(empleado);
         }
 
-        // POST: Productos/Delete/5
+        // POST: Empleados/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            if (_context.Productos == null)
+            if (_context.Empleados == null)
             {
-                return Problem("Entity set 'FinalRammContext.Productos'  is null.");
+                return Problem("Entity set 'FinalRammContext.Empleados'  is null.");
             }
-            var producto = await _context.Productos.FindAsync(id);
-            if (producto != null)
+            var empleado = await _context.Empleados.FindAsync(id);
+            if (empleado != null)
             {
-                //_context.Productos.Remove(producto);
-                producto.RegistroActivo = false;
-                _context.Update(producto);
+                _context.Empleados.Remove(empleado);
             }
             
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ProductoExists(int id)
+        private bool EmpleadoExists(int id)
         {
-          return (_context.Productos?.Any(e => e.Id == id)).GetValueOrDefault();
+          return (_context.Empleados?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }
