@@ -24,7 +24,7 @@ namespace WebFinalRamm.Controllers
         public async Task<IActionResult> Index()
         {
               return _context.Empleados != null ? 
-                          View(await _context.Empleados.ToListAsync()) :
+                          View(await _context.Empleados.Where(x=>x.RegistroActivo.Value).ToListAsync()) :
                           Problem("Entity set 'FinalRammContext.Empleados'  is null.");
         }
 
@@ -61,6 +61,9 @@ namespace WebFinalRamm.Controllers
         {
             if (ModelState.IsValid)
             {
+                empleado.UsuarioRegistro = User.Identity?.Name;
+                empleado.FechaRegistro = DateTime.Now;
+                empleado.RegistroActivo = true;
                 _context.Add(empleado);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -100,6 +103,9 @@ namespace WebFinalRamm.Controllers
             {
                 try
                 {
+                    empleado.UsuarioRegistro = User.Identity?.Name;
+                    empleado.FechaRegistro = DateTime.Now;
+                    empleado.RegistroActivo = true;
                     _context.Update(empleado);
                     await _context.SaveChangesAsync();
                 }
@@ -149,7 +155,9 @@ namespace WebFinalRamm.Controllers
             var empleado = await _context.Empleados.FindAsync(id);
             if (empleado != null)
             {
-                _context.Empleados.Remove(empleado);
+                //_context.Empleados.Remove(empleado);
+                empleado.RegistroActivo = false;
+                _context.Update(empleado);
             }
             
             await _context.SaveChangesAsync();

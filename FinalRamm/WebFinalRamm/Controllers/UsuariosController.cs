@@ -64,6 +64,9 @@ namespace WebFinalRamm.Controllers
             usuario.Clave = AccountController.Encrypt("DieselSur");
             if (!string.IsNullOrEmpty(usuario.Usuario1))
             {
+                usuario.UsuarioRegistro = User.Identity?.Name;
+                usuario.FechaRegistro = DateTime.Now;
+                usuario.RegistroActivo = true;
                 _context.Add(usuario);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -107,6 +110,9 @@ namespace WebFinalRamm.Controllers
             {
                 try
                 {
+                    usuario.UsuarioRegistro = User.Identity?.Name;
+                    usuario.FechaRegistro = DateTime.Now;
+                    usuario.RegistroActivo = true;
                     _context.Update(usuario);
                     await _context.SaveChangesAsync();
                 }
@@ -159,7 +165,9 @@ namespace WebFinalRamm.Controllers
             var usuario = await _context.Usuarios.FindAsync(id);
             if (usuario != null)
             {
-                _context.Usuarios.Remove(usuario);
+                //_context.Usuarios.Remove(usuario);
+                usuario.RegistroActivo = false;
+                _context.Update(usuario);
             }
             
             await _context.SaveChangesAsync();
