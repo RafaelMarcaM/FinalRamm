@@ -84,7 +84,8 @@ namespace WebFinalRamm.Controllers
             {
                 return NotFound();
             }
-            ViewData["IdEmpleado"] = new SelectList(_context.Empleados, "Id", "Id", usuario.IdEmpleado);
+            var empleados = _context.Empleados.Select(e => new { e.Id, nombreCompleto = $"{e.Nombre} {e.PrimerApellido} {e.SegundoApellido}" });
+            ViewData["IdEmpleado"] = new SelectList(empleados, "Id", "nombreCompleto");
             return View(usuario);
         }
 
@@ -120,7 +121,8 @@ namespace WebFinalRamm.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IdEmpleado"] = new SelectList(_context.Empleados, "Id", "Id", usuario.IdEmpleado);
+            var empleados = _context.Empleados.Select(e => new { e.Id, nombreCompleto = $"{e.Nombre} {e.PrimerApellido} {e.SegundoApellido}" });
+            ViewData["IdEmpleado"] = new SelectList(empleados, "Id", "nombreCompleto");
             return View(usuario);
         }
 
