@@ -1,0 +1,54 @@
+﻿@model WebFinalRamm.Models.Proveedor
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Detalles de Proveedor</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Nit</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nit)
+        </dd>
+        <dt class="col-sm-2">Razón Social</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RazonSocial)
+        </dd>
+        <dt class="col-sm-2">Dirección</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Direccion)
+        </dd>
+        <dt class="col-sm-2">Telefono</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+        <dt class="col-sm-2">Ciudad</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Ciudad)
+        </dd>
+        <dt class="col-sm-2">Banco</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Banco)
+        </dd>
+        <dt class="col-sm-2">Nº de Cuenta Bancaria</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CuentaBancaria)
+        </dd>
+        <dt class="col-sm-2">Usuario de Registro</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UsuarioRegistro)
+        </dd>
+        <dt class="col-sm-2">Fecha de Registro</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FechaRegistro)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Volver a la lista</a>
+</div>
