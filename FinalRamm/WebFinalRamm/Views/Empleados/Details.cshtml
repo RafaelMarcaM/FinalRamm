@@ -5,75 +5,50 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Details</h1>
+<h1>Detalles de Empleado</h1>
 
 <div>
-    <h4>Empleado</h4>
     <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.CedulaIdentidad)
-        </dt>
+        <dt class = "col-sm-2">Cédula de Identidad</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.CedulaIdentidad)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Nombre)
-        </dt>
+        <dt class = "col-sm-2">Nombre</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Nombre)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.PrimerApellido)
-        </dt>
+        <dt class = "col-sm-2">Primer Apellido</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.PrimerApellido)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.SegundoApellido)
-        </dt>
+        <dt class = "col-sm-2">Segundo Apellido</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.SegundoApellido)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Direccion)
-        </dt>
+        <dt class = "col-sm-2">Dirección</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Direccion)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Celular)
-        </dt>
+        <dt class = "col-sm-2">Celular</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Celular)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Cargo)
-        </dt>
+        <dt class = "col-sm-2">Cargo</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Cargo)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.UsuarioRegistro)
-        </dt>
+        <dt class = "col-sm-2">Usuario de Registro</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.UsuarioRegistro)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.RegistroActivo)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.RegistroActivo)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.FechaRegistro)
-        </dt>
+        <dt class = "col-sm-2">Fecha de Registro</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.FechaRegistro)
         </dd>
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> |
+    <a asp-action="Index">Volver a la lista</a>
 </div>
