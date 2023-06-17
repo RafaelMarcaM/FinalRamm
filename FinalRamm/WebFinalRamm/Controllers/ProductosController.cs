@@ -59,6 +59,7 @@ namespace WebFinalRamm.Controllers
         {
             if (ModelState.IsValid)
             {
+                producto.UsuarioRegistro = User.Identity?.Name;
                 producto.FechaRegistro = DateTime.Now;
                 producto.RegistroActivo = true;
                 _context.Add(producto);
@@ -100,6 +101,7 @@ namespace WebFinalRamm.Controllers
             {
                 try
                 {
+                    producto.UsuarioRegistro = User.Identity?.Name;
                     producto.RegistroActivo = true;
                     producto.FechaRegistro = DateTime.Now;
                     _context.Update(producto);

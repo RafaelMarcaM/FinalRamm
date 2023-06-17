@@ -25,7 +25,7 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
                         </li>
-                        @if(User.Identity?.IsAuthenticated == false){
+                        @if(User.Identity?.IsAuthenticated == true){
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Productos" asp-action="Index">Productos</a>
                             </li>
@@ -42,10 +42,7 @@
                         }
                         else
                         {
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" href="#">Hola @User.Identity?Name</a>
-                            </li>
-                            <li class="nav-item">@await Html.PartialAsync("_LogoutPartial")</li>
+                            @await Html.PartialAsync("_LogoutPartial")
                         }
                     </ul>
                 </div>
