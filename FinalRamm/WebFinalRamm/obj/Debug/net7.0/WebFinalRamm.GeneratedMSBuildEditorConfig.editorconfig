@@ -9,145 +9,145 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebFinalRamm
 build_property.RootNamespace = WebFinalRamm
-build_property.ProjectDir = C:\Users\Samantha\Documents\FinalRamm\FinalRamm\WebFinalRamm\
+build_property.ProjectDir = D:\Documentos\Universidad\FinalRamm\FinalRamm\FinalRamm\WebFinalRamm\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Samantha\Documents\FinalRamm\FinalRamm\WebFinalRamm
+build_property.MSBuildProjectDirectory = D:\Documentos\Universidad\FinalRamm\FinalRamm\FinalRamm\WebFinalRamm
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Account/Login.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Clientes/Create.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Clientes/Delete.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Clientes/Details.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Clientes/Edit.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Clientes/Index.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Empleados/Create.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Empleados/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Empleados/Delete.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Empleados/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Empleados/Details.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Empleados/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Empleados/Edit.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Empleados/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Empleados/Index.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Empleados/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Home/Index.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Home/Privacy.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Productos/Create.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Productos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Productos/Delete.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Productos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Productos/Details.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Productos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Productos/Edit.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Productos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Productos/Index.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Productos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Proveedores/Create.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Proveedores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Proveedores/Delete.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Proveedores/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Proveedores/Details.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Proveedores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Proveedores/Edit.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Proveedores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Proveedores/Index.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Proveedores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Shared/Error.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Shared/_LogoutPartial.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Shared/_LogoutPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dvdXRQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Usuarios/Create.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Usuarios/Delete.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Usuarios/Details.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Usuarios/Edit.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Usuarios/Index.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/_ViewImports.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/_ViewStart.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samantha/Documents/FinalRamm/FinalRamm/WebFinalRamm/Views/Shared/_Layout.cshtml]
+[D:/Documentos/Universidad/FinalRamm/FinalRamm/FinalRamm/WebFinalRamm/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-d8amn2nc7h
