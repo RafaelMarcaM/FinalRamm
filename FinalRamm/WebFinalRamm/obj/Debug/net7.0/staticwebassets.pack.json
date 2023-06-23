@@ -1,304 +1,304 @@
 {
   "Files": [
     {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebFinalRamm.bundle.scp.css",
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebFinalRamm.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebFinalRamm.bundle.scp.css"
     },
     {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\css\\custom.css",
-      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
     },
     {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\css\\fontawesome.css",
-      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
     },
     {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\css\\fontawesome.min.css",
-      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.min.css"
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
     },
     {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\css\\slick-theme.css",
-      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.css"
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
     },
     {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\css\\slick-theme.min.css",
-      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.min.css"
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.min.css"
     },
     {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\css\\slick.min.css",
-      "PackagePath": "staticwebassets\\assets\\css\\slick.min.css"
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\css\\slick.min.css"
     },
     {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\css\\templatemo.css",
-      "PackagePath": "staticwebassets\\assets\\css\\templatemo.css"
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\templatemo.css",
+      "PackagePath": "staticwebassets\\css\\templatemo.css"
     },
     {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\css\\templatemo.min.css",
-      "PackagePath": "staticwebassets\\assets\\css\\templatemo.min.css"
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\templatemo.min.css",
+      "PackagePath": "staticwebassets\\css\\templatemo.min.css"
     },
     {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\about-hero.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\about-hero.svg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\ajax-loader.gif",
-      "PackagePath": "staticwebassets\\assets\\img\\ajax-loader.gif"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\apple-icon.png",
-      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\banner_img_01.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\banner_img_01.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\banner_img_02.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\banner_img_02.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\banner_img_03.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\banner_img_03.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\brand_01.png",
-      "PackagePath": "staticwebassets\\assets\\img\\brand_01.png"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\brand_02.png",
-      "PackagePath": "staticwebassets\\assets\\img\\brand_02.png"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\brand_03.png",
-      "PackagePath": "staticwebassets\\assets\\img\\brand_03.png"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\brand_04.png",
-      "PackagePath": "staticwebassets\\assets\\img\\brand_04.png"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\category_img_01.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\category_img_01.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\category_img_02.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\category_img_02.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\category_img_03.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\category_img_03.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\favicon.ico",
-      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\feature_prod_01.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_01.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\feature_prod_02.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_02.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\feature_prod_03.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_03.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\product_single_01.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\product_single_01.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\product_single_02.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\product_single_02.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\product_single_03.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\product_single_03.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\product_single_04.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\product_single_04.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\product_single_05.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\product_single_05.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\product_single_06.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\product_single_06.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\product_single_07.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\product_single_07.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\product_single_08.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\product_single_08.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\product_single_09.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\product_single_09.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\product_single_10.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\product_single_10.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\shop_01.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_01.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\shop_02.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_02.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\shop_03.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_03.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\shop_04.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_04.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\shop_05.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_05.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\shop_06.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_06.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\shop_07.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_07.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\shop_08.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_08.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\shop_09.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_09.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\shop_10.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_10.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\img\\shop_11.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_11.jpg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\js\\custom.js",
-      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\js\\jquery-1.11.0.min.js",
-      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.11.0.min.js"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\js\\jquery-migrate-1.2.1.min.js",
-      "PackagePath": "staticwebassets\\assets\\js\\jquery-migrate-1.2.1.min.js"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\js\\slick.min.js",
-      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\js\\templatemo.js",
-      "PackagePath": "staticwebassets\\assets\\js\\templatemo.js"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\js\\templatemo.min.js",
-      "PackagePath": "staticwebassets\\assets\\js\\templatemo.min.js"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\slick.eot",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.eot"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\slick.svg",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.svg"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\slick.ttf",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.ttf"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\assets\\webfonts\\slick.woff",
-      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.woff"
-    },
-    {
-      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\about-hero.svg",
+      "PackagePath": "staticwebassets\\img\\about-hero.svg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\banner_img_01.jpg",
+      "PackagePath": "staticwebassets\\img\\banner_img_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\banner_img_02.jpg",
+      "PackagePath": "staticwebassets\\img\\banner_img_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\banner_img_03.jpg",
+      "PackagePath": "staticwebassets\\img\\banner_img_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\brand_01.png",
+      "PackagePath": "staticwebassets\\img\\brand_01.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\brand_02.png",
+      "PackagePath": "staticwebassets\\img\\brand_02.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\brand_03.png",
+      "PackagePath": "staticwebassets\\img\\brand_03.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\brand_04.png",
+      "PackagePath": "staticwebassets\\img\\brand_04.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\category_img_01.jpg",
+      "PackagePath": "staticwebassets\\img\\category_img_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\category_img_02.jpg",
+      "PackagePath": "staticwebassets\\img\\category_img_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\category_img_03.jpg",
+      "PackagePath": "staticwebassets\\img\\category_img_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\feature_prod_01.jpg",
+      "PackagePath": "staticwebassets\\img\\feature_prod_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\feature_prod_02.jpg",
+      "PackagePath": "staticwebassets\\img\\feature_prod_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\feature_prod_03.jpg",
+      "PackagePath": "staticwebassets\\img\\feature_prod_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_01.jpg",
+      "PackagePath": "staticwebassets\\img\\product_single_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_02.jpg",
+      "PackagePath": "staticwebassets\\img\\product_single_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_03.jpg",
+      "PackagePath": "staticwebassets\\img\\product_single_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_04.jpg",
+      "PackagePath": "staticwebassets\\img\\product_single_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_05.jpg",
+      "PackagePath": "staticwebassets\\img\\product_single_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_06.jpg",
+      "PackagePath": "staticwebassets\\img\\product_single_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_07.jpg",
+      "PackagePath": "staticwebassets\\img\\product_single_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_08.jpg",
+      "PackagePath": "staticwebassets\\img\\product_single_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_09.jpg",
+      "PackagePath": "staticwebassets\\img\\product_single_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_10.jpg",
+      "PackagePath": "staticwebassets\\img\\product_single_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_01.jpg",
+      "PackagePath": "staticwebassets\\img\\shop_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_02.jpg",
+      "PackagePath": "staticwebassets\\img\\shop_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_03.jpg",
+      "PackagePath": "staticwebassets\\img\\shop_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_04.jpg",
+      "PackagePath": "staticwebassets\\img\\shop_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_05.jpg",
+      "PackagePath": "staticwebassets\\img\\shop_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_06.jpg",
+      "PackagePath": "staticwebassets\\img\\shop_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_07.jpg",
+      "PackagePath": "staticwebassets\\img\\shop_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_08.jpg",
+      "PackagePath": "staticwebassets\\img\\shop_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_09.jpg",
+      "PackagePath": "staticwebassets\\img\\shop_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_10.jpg",
+      "PackagePath": "staticwebassets\\img\\shop_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_11.jpg",
+      "PackagePath": "staticwebassets\\img\\shop_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\templatemo.js",
+      "PackagePath": "staticwebassets\\js\\templatemo.js"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\templatemo.min.js",
+      "PackagePath": "staticwebassets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.eot",
+      "PackagePath": "staticwebassets\\webfonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.svg",
+      "PackagePath": "staticwebassets\\webfonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.woff",
+      "PackagePath": "staticwebassets\\webfonts\\slick.woff"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebFinalRamm.Microsoft.AspNetCore.StaticWebAssets.props",

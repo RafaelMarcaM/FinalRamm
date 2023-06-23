@@ -5,62 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Diesel Sur - Principal</title>
 
-    <link rel="apple-touch-icon" href="~/assets/img/apple-icon.png">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="apple-touch-icon" href="~/img/apple-icon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="~/img/favicon.ico">
 
-    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="~/assets/css/templatemo.css">
-    <link rel="stylesheet" href="~/assets/css/custom.css">
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/templatemo.css">
+    <link rel="stylesheet" href="~/css/custom.css">
 
     <!-- Load fonts style after rendering the layout styles -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&display=swap">
-    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="~/css/fontawesome.min.css">
 
 </head>
 <body>
-    @*<header>
-    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-    <div class="container-fluid">
-    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">WebFinalRamm</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-    aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-    <ul class="navbar-nav flex-grow-1">
-    <li class="nav-item">
-    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
-    </li>
-    @if(User.Identity?.IsAuthenticated == true){
-    <li class="nav-item">
-    <a class="nav-link text-dark" asp-area="" asp-controller="Productos" asp-action="Index">Productos</a>
-    </li>
-    <li class="nav-item">
-    <a class="nav-link text-dark" asp-area="" asp-controller="Empleados" asp-action="Index">Empleados</a>
-    </li>
-    <li class="nav-item">
-    <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
-    </li>
-    <li class="nav-item">
-    <a class="nav-link text-dark" asp-area="" asp-controller="Proveedores" asp-action="Index">Proveedores</a>
-    </li>
-    <li class="nav-item">
-    <a class="nav-link text-dark" asp-area="" asp-controller="Clientes" asp-action="Index">Clientes</a>
-    </li>
-    }
-    @if (User.Identity?.IsAuthenticated == false)
-    {
-    <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">Iniciar Sesión</a>
-    }
-    else
-    {
-    @await Html.PartialAsync("_LogoutPartial")
-    }
-    </ul>
-    </div>
-    </div>
-    </nav>
-    </header>*@
 
     <!-- Start Top Nav -->
     <nav class="navbar navbar-expand-lg bg-dark navbar-light d-none d-lg-block" id="templatemo_nav_top">
@@ -79,45 +36,19 @@
         </div>
     </nav>
     <!-- Close Top Nav -->
+
     <!-- Header -->
     <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
-
-            <a class="navbar-brand text-success logo h1 align-self-center" href="index.html">
+            <a class="navbar-brand text-success logo h1 align-self-center" asp-controller="Home" asp-action="Index">
                 Diesel Sur
             </a>
-
-            <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
 
             <div class="align-self-center collapse navbar-collapse flex-fill  d-lg-flex justify-content-lg-between" id="templatemo_main_nav">
                 <div class="flex-fill">
                     <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Sobre Nosotros</a>
-                        </li>
-                        @if (User.Identity?.IsAuthenticated == true)
-                        {
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Productos" asp-action="Index">Productos</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Clientes" asp-action="Index">Clientes</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Proveedores" asp-action="Index">Proveedores</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Empleados" asp-action="Index">Empleados</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
-                            </li>
-                        }
+                        <li><a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a></li>
+                        <li><a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Sobre Nosotros</a></li>
                     </ul>
                 </div>
                 @if (User.Identity?.IsAuthenticated == false)
@@ -131,7 +62,35 @@
             </div>
         </div>
     </nav>
+
+    <nav class="navbar navbar-expand-lg navbar-light shadow">
+        <div class="container d-flex justify-content-between align-items-center">
+            <div class="flex-fill">
+                <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
+                    @if (User.Identity?.IsAuthenticated == true)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Productos" asp-action="Index">Productos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Clientes" asp-action="Index">Clientes</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Proveedores" asp-action="Index">Proveedores</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Empleados" asp-action="Index">Empleados</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
     <!-- Close Header -->
+
     <!-- Modal -->
     <div class="modal fade bg-white" id="templatemo_search" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg" role="document">
@@ -163,9 +122,26 @@
                 <div class="col-md-4 pt-5">
                     <h2 class="h2 text-success border-bottom pb-3 border-light logo">Diesel Sur</h2>
                     <ul class="list-unstyled text-light footer-link-list">
-                        <li>
+                        <li class="text-center">
                             Somos una empresa boliviana que brinda soluciones industriales y automotrices.
                         </li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4 pt-5">
+                    <h2 class="h2 text-light border-bottom pb-3 border-light">Ofrecemos</h2>
+                    <ul class="list-unstyled text-light footer-link-list">
+                        <li><a class="text-decoration-none" href="#">Retenes</a></li>
+                        <li><a class="text-decoration-none" href="#">Rodamientos</a></li>
+                        <li><a class="text-decoration-none" href="#">Bujes</a></li>
+                        <li><a class="text-decoration-none" href="#">Ventiladoras</a></li>
+                        <li><a class="text-decoration-none" href="#">Turbos</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4 pt-5">
+                    <h2 class="h2 text-light border-bottom pb-3 border-light">Contactanos</h2>
+                    <ul class="list-unstyled text-light footer-link-list">
                         <li>
                             <i class="fas fa-map-marker-alt fa-fw"></i>
                             Av. Marcelo Quiroga Santa Cruz #745
@@ -178,30 +154,6 @@
                             <i class="fa fa-envelope fa-fw"></i>
                             <a class="text-decoration-none" href="#">DieselSur@gmail.com</a>
                         </li>
-                    </ul>
-                </div>
-
-                <div class="col-md-4 pt-5">
-                    <h2 class="h2 text-light border-bottom pb-3 border-light">Productos</h2>
-                    <ul class="list-unstyled text-light footer-link-list">
-                        <li><a class="text-decoration-none" href="#">Luxury</a></li>
-                        <li><a class="text-decoration-none" href="#">Sport Wear</a></li>
-                        <li><a class="text-decoration-none" href="#">Men's Shoes</a></li>
-                        <li><a class="text-decoration-none" href="#">Women's Shoes</a></li>
-                        <li><a class="text-decoration-none" href="#">Popular Dress</a></li>
-                        <li><a class="text-decoration-none" href="#">Gym Accessories</a></li>
-                        <li><a class="text-decoration-none" href="#">Sport Shoes</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-md-4 pt-5">
-                    <h2 class="h2 text-light border-bottom pb-3 border-light">Further Info</h2>
-                    <ul class="list-unstyled text-light footer-link-list">
-                        <li><a class="text-decoration-none" href="#">inicio</a></li>
-                        <li><a class="text-decoration-none" href="#">Sobre Nosotros</a></li>
-                        <li><a class="text-decoration-none" href="#">Shop Locations</a></li>
-                        <li><a class="text-decoration-none" href="#">FAQs</a></li>
-                        <li><a class="text-decoration-none" href="#">Contact</a></li>
                     </ul>
                 </div>
 
@@ -224,11 +176,11 @@
 
     <!-- End Footer -->
     <!-- Start Script -->
-    <script src="~/assets/js/jquery-1.11.0.min.js"></script>
-    <script src="~/assets/js/jquery-migrate-1.2.1.min.js"></script>
-    <script src="~/assets/js/bootstrap.bundle.min.js"></script>
-    <script src="~/assets/js/templatemo.js"></script>
-    <script src="~/assets/js/custom.js"></script>
+    <script src="~/js/jquery-1.11.0.min.js"></script>
+    <script src="~/js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/templatemo.js"></script>
+    <script src="~/js/custom.js"></script>
     <!-- End Script -->
     @await RenderSectionAsync("Scripts", required: false)
 </body>
