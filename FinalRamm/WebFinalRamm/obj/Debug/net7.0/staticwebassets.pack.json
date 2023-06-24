@@ -1,211 +1,211 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebFinalRamm.bundle.scp.css",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebFinalRamm.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebFinalRamm.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\custom.css",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\custom.css",
       "PackagePath": "staticwebassets\\css\\custom.css"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\fontawesome.css",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\css\\fontawesome.css"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\fontawesome.min.css",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick-theme.css",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick-theme.css",
       "PackagePath": "staticwebassets\\css\\slick-theme.css"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick-theme.min.css",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick-theme.min.css",
       "PackagePath": "staticwebassets\\css\\slick-theme.min.css"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick.min.css",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick.min.css",
       "PackagePath": "staticwebassets\\css\\slick.min.css"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\templatemo.css",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\templatemo.css",
       "PackagePath": "staticwebassets\\css\\templatemo.css"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\templatemo.min.css",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\templatemo.min.css",
       "PackagePath": "staticwebassets\\css\\templatemo.min.css"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\favicon.ico",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\01-Productos.png",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\01-Productos.png",
       "PackagePath": "staticwebassets\\img\\01-Productos.png"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\02-Clientes.png",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\02-Clientes.png",
       "PackagePath": "staticwebassets\\img\\02-Clientes.png"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\03-Proveedores.png",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\03-Proveedores.png",
       "PackagePath": "staticwebassets\\img\\03-Proveedores.png"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\04-Compra.png",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\04-Compra.png",
       "PackagePath": "staticwebassets\\img\\04-Compra.png"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\05-Venta.png",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\05-Venta.png",
       "PackagePath": "staticwebassets\\img\\05-Venta.png"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\06-Empleados.png",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\06-Empleados.png",
       "PackagePath": "staticwebassets\\img\\06-Empleados.png"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\07-Usuarios.png",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\07-Usuarios.png",
       "PackagePath": "staticwebassets\\img\\07-Usuarios.png"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Amortiguadores.png",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Amortiguadores.png",
       "PackagePath": "staticwebassets\\img\\Amortiguadores.png"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Marcas.jpg",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Marcas.jpg",
       "PackagePath": "staticwebassets\\img\\Marcas.jpg"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Repuesto.png",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Repuesto.png",
       "PackagePath": "staticwebassets\\img\\Repuesto.png"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Repuestos.png",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Repuestos.png",
       "PackagePath": "staticwebassets\\img\\Repuestos.png"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Retenes.jpg",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Retenes.jpg",
       "PackagePath": "staticwebassets\\img\\Retenes.jpg"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Rodamiento.png",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Rodamiento.png",
       "PackagePath": "staticwebassets\\img\\Rodamiento.png"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\about-hero.svg",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\about-hero.svg",
       "PackagePath": "staticwebassets\\img\\about-hero.svg"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\ajax-loader.gif",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\img\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\custom.js",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\jquery-1.11.0.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\jquery-migrate-1.2.1.min.js",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\jquery-migrate-1.2.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-migrate-1.2.1.min.js"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\slick.min.js",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\templatemo.js",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\templatemo.js",
       "PackagePath": "staticwebassets\\js\\templatemo.js"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\templatemo.min.js",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\templatemo.min.js",
       "PackagePath": "staticwebassets\\js\\templatemo.min.js"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.eot",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.eot",
       "PackagePath": "staticwebassets\\webfonts\\slick.eot"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.svg",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.svg",
       "PackagePath": "staticwebassets\\webfonts\\slick.svg"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.ttf",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.ttf",
       "PackagePath": "staticwebassets\\webfonts\\slick.ttf"
     },
     {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.woff",
+      "Id": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.woff",
       "PackagePath": "staticwebassets\\webfonts\\slick.woff"
     },
     {

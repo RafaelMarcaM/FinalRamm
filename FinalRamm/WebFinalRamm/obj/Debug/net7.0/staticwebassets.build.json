@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fndH5DXFY4bYWa22K997lrK87atr0bKJJMDsY2xtXOQ=",
+  "Hash": "xjQpbTZm4FBxR/pFUQSyhArKQp7Z/ndkX9ZWzqntXKM=",
   "Source": "WebFinalRamm",
   "BasePath": "_content/WebFinalRamm",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebFinalRamm\\wwwroot",
       "Source": "WebFinalRamm",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WebFinalRamm.styles.css",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WebFinalRamm.styles.css",
       "SourceId": "WebFinalRamm",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "WebFinalRamm.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WebFinalRamm.styles.css"
+      "OriginalItemSpec": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WebFinalRamm.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebFinalRamm.bundle.scp.css",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebFinalRamm.bundle.scp.css",
       "SourceId": "WebFinalRamm",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "WebFinalRamm.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebFinalRamm.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebFinalRamm.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\custom.css",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\custom.css",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "css/custom.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\fontawesome.css",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\fontawesome.css",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "css/fontawesome.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome.css"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\fontawesome.min.css",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\fontawesome.min.css",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "css/fontawesome.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick.min.css",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick.min.css",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "css/slick.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick.min.css"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick-theme.css",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick-theme.css",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "css/slick-theme.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick-theme.css"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick-theme.min.css",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\slick-theme.min.css",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "css/slick-theme.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick-theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\templatemo.css",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\templatemo.css",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "css/templatemo.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\templatemo.css"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\templatemo.min.css",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\css\\templatemo.min.css",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "css/templatemo.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\templatemo.min.css"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\favicon.ico",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\01-Productos.png",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\01-Productos.png",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/01-Productos.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\01-Productos.png"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\02-Clientes.png",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\02-Clientes.png",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/02-Clientes.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\02-Clientes.png"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\03-Proveedores.png",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\03-Proveedores.png",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/03-Proveedores.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\03-Proveedores.png"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\04-Compra.png",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\04-Compra.png",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/04-Compra.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\04-Compra.png"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\05-Venta.png",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\05-Venta.png",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/05-Venta.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\05-Venta.png"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\06-Empleados.png",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\06-Empleados.png",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/06-Empleados.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\06-Empleados.png"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\07-Usuarios.png",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\07-Usuarios.png",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/07-Usuarios.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\07-Usuarios.png"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\about-hero.svg",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\about-hero.svg",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/about-hero.svg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about-hero.svg"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\ajax-loader.gif",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\ajax-loader.gif",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/ajax-loader.gif",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Amortiguadores.png",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Amortiguadores.png",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/Amortiguadores.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Amortiguadores.png"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Marcas.jpg",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Marcas.jpg",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/Marcas.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Marcas.jpg"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Repuesto.png",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Repuesto.png",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/Repuesto.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Repuesto.png"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Repuestos.png",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Repuestos.png",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/Repuestos.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Repuestos.png"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Retenes.jpg",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Retenes.jpg",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/Retenes.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Retenes.jpg"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Rodamiento.png",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Rodamiento.png",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "img/Rodamiento.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rodamiento.png"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\custom.js",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\custom.js",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\jquery-1.11.0.min.js",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "js/jquery-1.11.0.min.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-1.11.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\jquery-migrate-1.2.1.min.js",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\jquery-migrate-1.2.1.min.js",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "js/jquery-migrate-1.2.1.min.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-migrate-1.2.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\slick.min.js",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\slick.min.js",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "js/slick.min.js",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slick.min.js"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\templatemo.js",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\templatemo.js",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "js/templatemo.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\js\\templatemo.js"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\templatemo.min.js",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\templatemo.min.js",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "js/templatemo.min.js",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\js\\templatemo.min.js"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.eot",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.svg",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.woff",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.eot",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.svg",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.woff",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.eot",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.svg",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.woff",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.eot",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.eot",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/slick.eot",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\slick.eot"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.svg",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.svg",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/slick.svg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\slick.svg"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.ttf",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.ttf",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/slick.ttf",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\slick.ttf"
     },
     {
-      "Identity": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.woff",
+      "Identity": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\webfonts\\slick.woff",
       "SourceId": "WebFinalRamm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos\\Universidad\\FinalRamm\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\",
       "BasePath": "_content/WebFinalRamm",
       "RelativePath": "webfonts/slick.woff",
       "AssetKind": "All",
