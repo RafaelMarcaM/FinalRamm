@@ -1,0 +1,52 @@
+﻿@model IEnumerable<WebFinalRamm.Models.Ventum>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Ventas</h1>
+
+<p>
+    <a asp-action="Create"><i class="fa fa-plus-circle"></i> Crear Nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Cliente</th>
+            <th>Nit</th>
+            <th>Codigo</th>
+            <th>Producot</th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+            <th>Total</th>
+            <th>Usuario</th>
+            <th>Fecha de Compra</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Transaccion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fecha)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdClienteNavigation.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdUsuarioNavigation.Id)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id"><i class="fa fa-edit"></i> Editar</a> ||
+                    <a asp-action="Details" asp-route-id="@item.Id"><i class="fa fa-info-circle"></i> Detalles</a> ||
+                    <a asp-action="Delete" asp-route-id="@item.Id"><i class="fa fa-trash-alt"></i> Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

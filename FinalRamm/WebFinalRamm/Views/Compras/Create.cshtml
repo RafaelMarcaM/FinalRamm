@@ -1,0 +1,53 @@
+﻿@model WebFinalRamm.Models.Compra
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Crear Compra</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Fecha de Compra</label>
+                <input class="form-control" />
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Numero de Compar</label>
+                <input class="form-control" />
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Usuario</label>
+                <input class="form-control" />
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Costo</label>
+                <input class="form-control" />
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Cantidad</label>
+                <input class="form-control" />
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Total</label>
+                <input class="form-control" />
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Fecha de Registroo</label>
+                <input class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index"><i class="fa fa-arrow-alt-circle-left"></i> Volver a la lista</a>
+</div>
+

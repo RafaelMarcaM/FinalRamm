@@ -1,0 +1,30 @@
+﻿@model WebFinalRamm.Models.Compra
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Eliminar Compra</h1>
+
+<h3>Seguro que desea eliminar está compra?</h3>
+<div>
+    <h4>Compra</h4>
+    <hr />
+    <dl class="row">
+        <dt>Codigo</dt>
+        <dt>Fecha de Compra</dt>
+        <dt>Numero de Compra</dt>
+        <dt>Usuario</dt>
+        <dt>Costo</dt>
+        <dt>Cantidad</dt>
+        <dt>Total</dt>
+        <dt>Fecha de Registro</dt>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+        <a asp-action="Index"><i class="fa fa-arrow-alt-circle-left"></i> Volver a la lista</a>
+    </form>
+</div>

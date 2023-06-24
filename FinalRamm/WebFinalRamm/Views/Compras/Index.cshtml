@@ -1,0 +1,47 @@
+﻿@model IEnumerable<WebFinalRamm.Models.Compra>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Compras</h1>
+
+<p>
+    <a asp-action="Create"><i class="fa fa-plus-circle"></i> Crear Nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Codigo</th>
+            <th>Fecha de Compra</th>
+            <th>Numero de Compra</th>
+            <th>Usuario</th>
+            <th>Costo</th>
+            <th>Cantidad</th>
+            <th>Total</th>
+            <th>Fecha de Registro</th>   
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Transaccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdProveedorNavigation.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id"><i class="fa fa-edit"></i> Editar</a> ||
+                <a asp-action="Details" asp-route-id="@item.Id"><i class="fa fa-info-circle"></i> Detalles</a> ||
+                <a asp-action="Delete" asp-route-id="@item.Id"><i class="fa fa-trash-alt"></i> Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
