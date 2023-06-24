@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Diesel Sur - Principal</title>
 
-    <link rel="apple-touch-icon" href="~/img/apple-icon.png">
-    <link rel="shortcut icon" type="image/x-icon" href="~/img/favicon.ico">
+    <link rel="apple-touch-icon" href="~/img/Repuesto.png">
+    <link rel="shortcut icon" type="image/x-icon" href="~/img/Repuesto.png">
 
     <link rel="stylesheet" href="~/css/bootstrap.min.css">
     <link rel="stylesheet" href="~/css/templatemo.css">
@@ -69,19 +69,33 @@
                 <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
                     @if (User.Identity?.IsAuthenticated == true)
                     {
+
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Productos" asp-action="Index">Productos</a>
+                            <img class="w3-border w3-padding" alt="Alps" src="./img/01-Productos.png">
+                            <a class="nav-link text-dark"  asp-controller="Productos" asp-action="Index">Productos</a>
                         </li>
                         <li class="nav-item">
+                            <img class="w3-border w3-padding" alt="Alps" src="./img/05-Venta.png">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Ventas" asp-action="Index">Ventas</a>
+                        </li>
+                        <li class="nav-item">
+                            <img class="w3-border w3-padding" alt="Alps" src="./img/04-Compra.png">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Compras" asp-action="Index">Compras</a>
+                        </li>
+                        <li class="nav-item">
+                            <img class="w3-border w3-padding" alt="Alps" src="./img/02-Clientes.png">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Clientes" asp-action="Index">Clientes</a>
                         </li>
                         <li class="nav-item">
+                            <img class="w3-border w3-padding" alt="Alps" src="./img/03-Proveedores.png">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Proveedores" asp-action="Index">Proveedores</a>
                         </li>
                         <li class="nav-item">
+                            <img class="w3-border w3-padding" alt="Alps" src="./img/06-Empleados.png">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Empleados" asp-action="Index">Empleados</a>
                         </li>
                         <li class="nav-item">
+                            <img class="w3-border w3-padding" alt="Alps" src="./img/07-Usuarios.png">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
                         </li>
                     }

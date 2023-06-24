@@ -45,156 +45,64 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\01-Productos.png",
+      "PackagePath": "staticwebassets\\img\\01-Productos.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\02-Clientes.png",
+      "PackagePath": "staticwebassets\\img\\02-Clientes.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\03-Proveedores.png",
+      "PackagePath": "staticwebassets\\img\\03-Proveedores.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\04-Compra.png",
+      "PackagePath": "staticwebassets\\img\\04-Compra.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\05-Venta.png",
+      "PackagePath": "staticwebassets\\img\\05-Venta.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\06-Empleados.png",
+      "PackagePath": "staticwebassets\\img\\06-Empleados.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\07-Usuarios.png",
+      "PackagePath": "staticwebassets\\img\\07-Usuarios.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Amortiguadores.png",
+      "PackagePath": "staticwebassets\\img\\Amortiguadores.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Marcas.jpg",
+      "PackagePath": "staticwebassets\\img\\Marcas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Repuesto.png",
+      "PackagePath": "staticwebassets\\img\\Repuesto.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Repuestos.png",
+      "PackagePath": "staticwebassets\\img\\Repuestos.png"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Retenes.jpg",
+      "PackagePath": "staticwebassets\\img\\Retenes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\Rodamiento.png",
+      "PackagePath": "staticwebassets\\img\\Rodamiento.png"
+    },
+    {
       "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\about-hero.svg",
       "PackagePath": "staticwebassets\\img\\about-hero.svg"
     },
     {
       "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\img\\ajax-loader.gif"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\apple-icon.png",
-      "PackagePath": "staticwebassets\\img\\apple-icon.png"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\banner_img_01.jpg",
-      "PackagePath": "staticwebassets\\img\\banner_img_01.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\banner_img_02.jpg",
-      "PackagePath": "staticwebassets\\img\\banner_img_02.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\banner_img_03.jpg",
-      "PackagePath": "staticwebassets\\img\\banner_img_03.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\brand_01.png",
-      "PackagePath": "staticwebassets\\img\\brand_01.png"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\brand_02.png",
-      "PackagePath": "staticwebassets\\img\\brand_02.png"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\brand_03.png",
-      "PackagePath": "staticwebassets\\img\\brand_03.png"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\brand_04.png",
-      "PackagePath": "staticwebassets\\img\\brand_04.png"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\category_img_01.jpg",
-      "PackagePath": "staticwebassets\\img\\category_img_01.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\category_img_02.jpg",
-      "PackagePath": "staticwebassets\\img\\category_img_02.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\category_img_03.jpg",
-      "PackagePath": "staticwebassets\\img\\category_img_03.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\favicon.ico",
-      "PackagePath": "staticwebassets\\img\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\feature_prod_01.jpg",
-      "PackagePath": "staticwebassets\\img\\feature_prod_01.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\feature_prod_02.jpg",
-      "PackagePath": "staticwebassets\\img\\feature_prod_02.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\feature_prod_03.jpg",
-      "PackagePath": "staticwebassets\\img\\feature_prod_03.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_01.jpg",
-      "PackagePath": "staticwebassets\\img\\product_single_01.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_02.jpg",
-      "PackagePath": "staticwebassets\\img\\product_single_02.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_03.jpg",
-      "PackagePath": "staticwebassets\\img\\product_single_03.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_04.jpg",
-      "PackagePath": "staticwebassets\\img\\product_single_04.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_05.jpg",
-      "PackagePath": "staticwebassets\\img\\product_single_05.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_06.jpg",
-      "PackagePath": "staticwebassets\\img\\product_single_06.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_07.jpg",
-      "PackagePath": "staticwebassets\\img\\product_single_07.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_08.jpg",
-      "PackagePath": "staticwebassets\\img\\product_single_08.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_09.jpg",
-      "PackagePath": "staticwebassets\\img\\product_single_09.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\product_single_10.jpg",
-      "PackagePath": "staticwebassets\\img\\product_single_10.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_01.jpg",
-      "PackagePath": "staticwebassets\\img\\shop_01.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_02.jpg",
-      "PackagePath": "staticwebassets\\img\\shop_02.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_03.jpg",
-      "PackagePath": "staticwebassets\\img\\shop_03.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_04.jpg",
-      "PackagePath": "staticwebassets\\img\\shop_04.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_05.jpg",
-      "PackagePath": "staticwebassets\\img\\shop_05.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_06.jpg",
-      "PackagePath": "staticwebassets\\img\\shop_06.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_07.jpg",
-      "PackagePath": "staticwebassets\\img\\shop_07.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_08.jpg",
-      "PackagePath": "staticwebassets\\img\\shop_08.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_09.jpg",
-      "PackagePath": "staticwebassets\\img\\shop_09.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_10.jpg",
-      "PackagePath": "staticwebassets\\img\\shop_10.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\img\\shop_11.jpg",
-      "PackagePath": "staticwebassets\\img\\shop_11.jpg"
     },
     {
       "Id": "C:\\Users\\Samantha\\Documents\\FinalRamm\\FinalRamm\\WebFinalRamm\\wwwroot\\js\\bootstrap.bundle.min.js",

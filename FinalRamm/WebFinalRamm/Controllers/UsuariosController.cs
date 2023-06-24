@@ -23,13 +23,14 @@ namespace WebFinalRamm.Controllers
         // GET: Usuarios
         public async Task<IActionResult> Index()
         {
-            var finalRammContext = _context.Usuarios.Include(u => u.IdEmpleadoNavigation);
+            var finalRammContext = _context.Usuarios.Include(u => u.IdEmpleadoNavigation);   
             return View(await finalRammContext.ToListAsync());
         }
 
         // GET: Usuarios/Details/5
         public async Task<IActionResult> Details(int? id)
         {
+            
             if (id == null || _context.Usuarios == null)
             {
                 return NotFound();
@@ -42,7 +43,6 @@ namespace WebFinalRamm.Controllers
             {
                 return NotFound();
             }
-
             return View(usuario);
         }
 
